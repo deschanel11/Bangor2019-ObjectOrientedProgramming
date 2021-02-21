@@ -1,5 +1,5 @@
 # ObjectOrientedProgramming
-OOP with JAVA
+OOP with JAVA 2019 2nd Semester Bangor CS
 
 
 #### lab2 - Introducing Classes
