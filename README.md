@@ -11,8 +11,8 @@ OOP with JAVA
 - 6. Person
 - 7. PersonTester
 #### lab3 - Building and Testinc Classes
-- 1. Product
-- 2. ProductTester
+- 1. Product -> should be fixed
+- 2. ProductTester -> not completed yet
 - 3. Student
 - 4. StudentTester
 - 5. Circle
