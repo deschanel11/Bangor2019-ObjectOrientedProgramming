@@ -10,7 +10,7 @@ OOP with JAVA 2019 2nd Semester Bangor CS
 - 5. BankAccountTester
 - 6. Person
 - 7. PersonTester
-#### lab3 - Building and Testinc Classes
+#### lab3 - Building and Testing Classes
 - 1. Product -> should be fixed
 - 2. ProductTester -> not completed yet
 - 3. Student
@@ -29,7 +29,7 @@ OOP with JAVA 2019 2nd Semester Bangor CS
 - 5. DieTEster_Plg
 - 6. Player
 - 7. PlayerTester
-#### lab8 - Uing Linked Lists
+#### lab8 - Using Linked Lists
 - 1. Student
 - 2. StudentTester
 - 3. Registry
